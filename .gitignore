@@ -1,0 +1,29 @@
+# Keil build output
+Objects/
+Listings/
+DebugConfig/
+MDK-ARM/OLED_U8g2/
+*.uvguix.*
+*.uvoptx
+*.bak
+*.axf
+*.hex
+*.bin
+*.map
+*.o
+*.d
+*.crf
+*.dep
+*.lnp
+*.lst
+*.sct
+*.build_log.htm
+*.htm
+
+# CubeMX / IDE
+.mxproject
+RTE/_*/
+
+# Python
+__pycache__/
+*.pyc
